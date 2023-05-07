@@ -1,1 +1,1 @@
-0x02. Shell, I/O Redirections and filters
+Create a script that creates an alias.
